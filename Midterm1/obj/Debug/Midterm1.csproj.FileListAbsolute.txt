@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\classLabs\Midterm1\Midterm1\bin\Debug\Midterm1.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\Midterm1\Midterm1\obj\Debug\Midterm1.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\Midterm1\Midterm1\bin\Debug\Midterm1.exe
+C:\Users\tmace\Documents\csis2530\classLabs\Midterm1\Midterm1\bin\Debug\Midterm1.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\Midterm1\Midterm1\obj\Debug\Midterm1.exe
+C:\Users\tmace\Documents\csis2530\classLabs\Midterm1\Midterm1\obj\Debug\Midterm1.pdb
